@@ -46,7 +46,7 @@
     "babel-loader": "^8.0.6",
     "chalk": "^3.0.0",
     "css-loader": "^3.4.0",
-    "electron": "^6.1.7",
+    "electron": "^13.6.6",
     "electron-builder": "^21.2.0",
     "electron-debug": "^3.0.1",
     "electron-dev-webpack-plugin": "^1.0.4",
